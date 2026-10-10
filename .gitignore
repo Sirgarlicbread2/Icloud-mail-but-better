@@ -1,0 +1,30 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets / environment variables
+.env
+.env.*
+
+# Build output
+build/
+dist/
+*.spec
+
+# IDE junk
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local databases / app data
+*.db
+*.sqlite
+*.sqlite3
